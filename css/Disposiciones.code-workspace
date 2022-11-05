@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Disposiciones"
+		},
+		{
+			"path": "../../Flexbox"
+		},
+		{
+			"path": "../../overflow"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Multimedia"
+	}
+}
